@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Solidity**, **ReactJS**, **NodeJS**, **etc**.
 
-- 😄 Pronouns: **Magic Dev**
-
 - 📚 I love reading books on personal development & financial literacy. 
 
 - ⚡ Quotes: *What you do today can improve all of your tomorrows.*
