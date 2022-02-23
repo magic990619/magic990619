@@ -15,7 +15,7 @@
 ## 🚀 Achievements
 - ⭐ Contributed to Many Projects
 
-- 👨‍🎓 Master Degree in Computer Science
+- 👨‍🎓 Bachelor's Degree in Computer Science
 
 - 🥇 Udemy Certificate in Ethereum and Smart Contract Development
 
