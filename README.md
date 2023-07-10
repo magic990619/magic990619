@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Magic Dev's profile 👋</h1>
-<h3 align="center">A Principal Blockchain Engineer</h3>
+<h3 align="center">A Principal Software Engineer</h3>
 
-- 😎 Interested in contributing expertise in web and blockchain development
+- 😎 Interested in contributing expertise in web2 and web3 development
 
 - 👯 Looking to collaborate on **Innovative Projects**
 
