@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Magic Dev's profile 👋</h1>
-<h3 align="center">A Senior Blockchain Engineer</h3>
+<h3 align="center">A Staff Software Engineer</h3>
 
 - 😎 Interested in contributing expertise in web2 and web3 development
 
